@@ -1,0 +1,6 @@
+{
+  "name": "Auto Brillance",
+  "description": "Professional vehicle detailing with deep interior cleaning, exterior washing, polishing and finishing services in Lyon, France.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
